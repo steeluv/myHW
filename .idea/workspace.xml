@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce010da-0515-4969-a894-898c6225a8de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionsTasks/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionsTasks/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionsTasks/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionsTasks/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionsTasks/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionsTasks/Task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionsTasks/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionsTasks/Task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionsTasks/Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionsTasks/Task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionsTasks/Функции.pptx" beforeDir="false" />
-    </list>
+    <list default="true" id="4ce010da-0515-4969-a894-898c6225a8de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
