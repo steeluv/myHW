@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce010da-0515-4969-a894-898c6225a8de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SetsTasks/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SetsTasks/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictTASKS/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictTASKS/Task1.py" afterDir="false" />
-    </list>
+    <list default="true" id="4ce010da-0515-4969-a894-898c6225a8de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
