@@ -7,3 +7,13 @@
 
 Примечание. Наличие функции является обязательным. Функция должна принимать количество набранных баллов.
 """
+def sale_discount(points):
+    if points > 0 and points < 50:
+        print('Скидка 10%')
+    elif points >= 50 and points < 100:
+        print('Скидка 15%')
+    else:
+        print('Скидка 20%')
+points = int(input('Введите количество баллов: '))
+sale_discount(points)
+
