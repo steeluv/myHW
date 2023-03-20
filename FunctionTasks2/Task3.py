@@ -9,3 +9,13 @@
 дить ли еще один рекурсивный вызов. Ваша функция не должна принимать аргумен-
 тов, а возвращать будет числовое значе
 """
+def your_number():
+    a = input("Введите число (нажмите 'Enter' для завершения): ")
+    if a == "":
+        return 0
+    else:
+        return float(a) + your_number()
+def main():
+    total = your_number()
+    print("Сумма введенных чисел:", total)
+main()

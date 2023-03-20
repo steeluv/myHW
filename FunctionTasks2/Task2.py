@@ -5,3 +5,14 @@
 расстояние поездки в километрах и возвращающую итоговую сумму опла-
 ты такси.
 """
+
+def taxi(distance):
+    price = 4
+    add = 0.25
+    if distance < 0.14:
+        return('Стоимость поездки: ' + str(price) + '$')
+    else:
+        return('Стоимость поездки: ' + str(price + add * (distance * 1000 // 140)) + '$')
+distance = float(input("Введите расстояние: "))
+print(taxi(distance))
+
