@@ -4,3 +4,11 @@
 файле должна начинаться с ее номера, двоеточия и пробела, после чего
 должен идти текст строки из исходного файла.
 """
+filess = input("Введите имя файла: ")
+
+with open(filess,"r") as fr:
+    with open(f"new_{filess}","w") as fw:
+        count = 1
+        for i in fr:
+            fw.write(f"{count}: {i}")
+            count += 1
