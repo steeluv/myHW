@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ce010da-0515-4969-a894-898c6225a8de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/my_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generators/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Generators/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generators/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Generators/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generators/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Generators/Task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generators/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Generators/Task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorators/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decorators/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorators/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decorators/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorators/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decorators/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorators/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decorators/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorators/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decorators/Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorators/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decorators/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions/Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/Task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,35 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Python.Task2 (1)">
-    <configuration name="Task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTasks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Task1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.my_game">
+    <configuration name="fight_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Telegram Desktop/Task1.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Telegram Desktop/fight_manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="message" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/Telegram Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Task2.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Telegram Desktop/message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mob" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/Telegram Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/Task3.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Telegram Desktop/mob.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +124,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Generators/Task4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTasks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/Telegram Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Telegram Desktop/player.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task2 (1)" />
-        <item itemvalue="Python.Task1" />
-        <item itemvalue="Python.Task3 (1)" />
-        <item itemvalue="Python.Task1 (1)" />
-        <item itemvalue="Python.Task4" />
+        <item itemvalue="Python.my_game" />
+        <item itemvalue="Python.message" />
+        <item itemvalue="Python.player" />
+        <item itemvalue="Python.mob" />
+        <item itemvalue="Python.fight_manager" />
       </list>
     </recent_temporary>
   </component>
