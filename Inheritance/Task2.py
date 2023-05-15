@@ -4,3 +4,16 @@
 Во втором классе вызовите метод класса родителя и добавьте к выводу надпись "но его отчислят если он не будет учить ООП".
 Создайте экземпляр второго класса с вашим именем и вызовите метод печатающий всю надпись.
 """
+class Genius:
+    def __int__(self, name):
+        self.name = name
+    def add_genius(self):
+        self.name
+class OOPGenius(Genius):
+    def add_oop(self):
+        super().add_genius()
+        self.name += ", но его отчислят, если он не будет учить ООП"
+
+user = OOPGenius("Владик")
+user.add_oop()
+print(user.name)
