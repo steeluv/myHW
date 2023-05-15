@@ -5,3 +5,22 @@
 Классу Planet добавьте свойства население и прирост за год и метод который будет печатать население через переданное
 ему количество лет.
 """
+class SpaceObject:
+    def __int__(self, size):
+        self.size = size
+class Star(SpaceObject):
+    def __int__(self, size, light):
+        super().__int__(light)
+        self.light = light
+    def show_light(self):
+        print(self.light)
+ class Planet (SpaceObject)
+     def __int__(self, size, population,grouht):
+         super().__int__(size)
+         self.population = population
+     def calculate (self, years):
+         print()
+
+
+
+
